@@ -1,11 +1,11 @@
 {
   "version": 8,
   "name": "versatiles-Shortbread-3D",
-  "glyphs": "./assets1/font/{fontstack}/{range}.pbf",
+  "glyphs": "./assets/font/{fontstack}/{range}.pbf",
   "sprite": [
     {
       "id": "basics",
-      "url": "./assets1/sprites/basics/sprites"
+      "url": "./assets/sprites/basics/sprites"
     }
   ],
   "center": [80.7, 6.6],
