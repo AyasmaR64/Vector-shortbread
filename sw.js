@@ -10,7 +10,7 @@ const STATIC_ASSETS = [
   "./lib/maplibre-gl.js",
   "./lib/maplibre-gl.css",
   "./lib/pmtiles.js",
-  "./images/map.png",
+  "./images/map-location-dot-duotone-solid-full.svg",
   "./assets/font/noto_sans_regular/0-255.pbf",
   "./assets/font/noto_sans_regular/1024-1279.pbf",
   "./assets/font/noto_sans_regular/1280-1535.pbf",
